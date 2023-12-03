@@ -1,0 +1,4 @@
+react JS
+-> creating components
+-> creating states and managing states
+-> react-dom-router module and how to use routing in navigation bar
